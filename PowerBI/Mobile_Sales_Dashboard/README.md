@@ -44,9 +44,24 @@ Additionally, a **calculated column** `Rating Status` was created to classify cu
 
 ## 🖼️ Dashboard Preview
 
-| Main Dashboard | MTD Report | SAME PERIOD LAST YEAR |
-|----------------|------------|-----------------------|
-| ![Dashboard](./Mobdashboard.png) | ![MTD Report](./MobMTDReport.png) | ![MTD Report](./sameperiodlastyear.png) |
+ Main Dashboard 
+
+ ![Dashboard](./Mobdashboard.png)
+
+ MTD Report 
+ 
+ ![MTD Report](./MobMTDReport.png) 
+
+ SAME PERIOD LAST YEAR 
+ 
+ ![MTD Report](./sameperiodlastyear.png) 
+
+
+
+
+
+
+
 
 ## 🚀 Future Enhancements
 - Add dynamic forecasting visuals.  
