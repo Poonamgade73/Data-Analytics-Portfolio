@@ -34,7 +34,7 @@ SELECT COUNT(Order_id) AS Total_orders
 FROM orders;
 ````
 
-![Total Orders](screenshots/1 op.png)
+![Total Orders](1 op.png)
 
 ---
 
@@ -46,7 +46,7 @@ FROM order_details
 JOIN pizzas ON pizzas.pizza_id = order_details.pizza_id;
 ```
 
-![Total Revenue](screenshots/2_total_revenue.png)
+![Total Revenue](2 op.png)
 
 ---
 
@@ -60,7 +60,7 @@ ORDER BY pizzas.price DESC
 LIMIT 1;
 ```
 
-![Highest-Priced Pizza](screenshots/3_highest_priced.png)
+![Highest-Priced Pizza](3 op.png)
 
 ---
 
