@@ -34,7 +34,7 @@ SELECT COUNT(Order_id) AS Total_orders
 FROM orders;
 ````
 
-![Total Orders](1 op.png)
+![Total Orders](1op.png)
 
 ---
 
@@ -46,7 +46,7 @@ FROM order_details
 JOIN pizzas ON pizzas.pizza_id = order_details.pizza_id;
 ```
 
-![Total Revenue](2 op.png)
+![Total Revenue](2op.png)
 
 ---
 
@@ -60,7 +60,7 @@ ORDER BY pizzas.price DESC
 LIMIT 1;
 ```
 
-![Highest-Priced Pizza](3 op.png)
+![Highest-Priced Pizza](3op.png)
 
 ---
 
@@ -74,7 +74,7 @@ GROUP BY pizzas.size
 ORDER BY order_count DESC;
 ```
 
-![Most Common Size](screenshots/4_common_size.png)
+![Most Common Size](4op.png)
 
 ---
 
@@ -90,7 +90,7 @@ ORDER BY quantity DESC
 LIMIT 5;
 ```
 
-![Top 5 Pizza Types](screenshots/5_top5_types.png)
+![Top 5 Pizza Types](5op.png)
 
 ---
 
@@ -105,7 +105,7 @@ GROUP BY pizza_types.category
 ORDER BY quantity DESC;
 ```
 
-![Category Quantity](screenshots/6_category_quantity.png)
+![Category Quantity](6op.png)
 
 ---
 
@@ -117,7 +117,7 @@ FROM orders
 GROUP BY HOUR(order_time);
 ```
 
-![Orders by Hour](screenshots/7_orders_by_hour.png)
+![Orders by Hour](7op.png)
 
 ---
 
@@ -129,7 +129,7 @@ FROM pizza_types
 GROUP BY category;
 ```
 
-![Category Distribution](screenshots/8_category_distribution.png)
+![Category Distribution](8op.png)
 
 ---
 
@@ -145,7 +145,7 @@ FROM (
 ) AS Order_Quantity;
 ```
 
-![Average Pizzas per Day](screenshots/9_avg_per_day.png)
+![Average Pizzas per Day](9op.png)
 
 ---
 
@@ -161,7 +161,7 @@ ORDER BY revenue DESC
 LIMIT 3;
 ```
 
-![Top 3 Pizza Revenue](screenshots/10_top3_revenue.png)
+![Top 3 Pizza Revenue](10op.png)
 
 ---
 
@@ -181,7 +181,7 @@ GROUP BY pizza_types.category
 ORDER BY revenue DESC;
 ```
 
-![Revenue Percentage](screenshots/11_revenue_percentage.png)
+![Revenue Percentage](11op.png)
 
 ---
 
@@ -198,7 +198,7 @@ FROM (
 ) AS Sales;
 ```
 
-![Cumulative Revenue](screenshots/12_cumulative_revenue.png)
+![Cumulative Revenue](12op.png)
 
 ---
 
@@ -220,7 +220,7 @@ SELECT name, revenue FROM (
 WHERE rn <= 3;
 ```
 
-![Top 3 Revenue per Category](screenshots/13_top3_category.png)
+![Top 3 Revenue per Category](13op.png)
 
 ---
 
