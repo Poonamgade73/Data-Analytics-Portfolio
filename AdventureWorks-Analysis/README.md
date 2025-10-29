@@ -117,7 +117,7 @@ Helps visualize regional distribution and production cost comparison.
 
 ---
 
-**🧾 SQL File:** [Download MySQL Script](https://github.com/poonamgade/AdventureWorksAnalysis/blob/main/SQL/AdventureWorks_Queries.sql)
+**🧾 SQL File:** [Download MySQL Script](https://github.com/Poonamgade73/Data-Analytics-Portfolio/blob/main/AdventureWorks-Analysis/AdventureWorksAnalysis.sql)
 
 ---
 
