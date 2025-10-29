@@ -88,7 +88,9 @@ The dataset is based on the **Adventure Works Cycles** sales model and follows a
 ### 🧾 Excel Dashboard
 
 Features: Month, Quarter, and Year-wise trends; KPIs for total sales, profit, products, and customers; top-selling products and customers.
+
 ![Excel Dashboard](dashboard1.png)
+
 **📂 Dashboard File:** [View Excel Dashboard](dashboard1.png)
 
 ---
@@ -97,7 +99,9 @@ Features: Month, Quarter, and Year-wise trends; KPIs for total sales, profit, pr
 
 Features: Gender, Country, Education, Marital Status, and Territory-wise insights.
 Visualizes total sales (₹29.36M), profit (₹12.08M), production cost (₹17.28M), and tax (₹2.35M).
+
 ![Power BI Dashboard](dashboard2.png)
+
 **📂 Dashboard File:** [View Power BI Dashboard](dashboard2.png)
 
 ---
@@ -106,8 +110,12 @@ Visualizes total sales (₹29.36M), profit (₹12.08M), production cost (₹17.2
 
 Features: Global sales map, quarterly and yearly sales performance, and monthly sales patterns.
 Helps visualize regional distribution and production cost comparison.
+
 ![Tableau Dashboard](dashboard3.png)
+
 **📂 Dashboard File:** [View Tableau Dashboard](dashboard3.png)
+
+---
 
 **🧾 SQL File:** [Download MySQL Script](https://github.com/poonamgade/AdventureWorksAnalysis/blob/main/SQL/AdventureWorks_Queries.sql)
 
