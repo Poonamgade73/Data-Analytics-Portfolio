@@ -107,7 +107,9 @@ The goal is to help **creators, investors, and platforms** make more data-driven
 ### 🧾 Excel Dashboard
 
 Features: Outcome distribution, goal-range success rates, and yearly trends across categories and countries.
+
 ![Excel Dashboard](EXCEL-DASHBOARD.png)
+
 **📂 Dashboard File:** [View Excel Dashboard](EXCEL-DASHBOARD.png)
 
 ---
@@ -115,7 +117,9 @@ Features: Outcome distribution, goal-range success rates, and yearly trends acro
 ### 📊 Power BI Dashboard
 
 Features: Interactive visualizations for success rate, backer count, goal-wise outcomes, and city-level analysis.
+
 ![Power BI Dashboard](POWERBI-DASHBOARD.png)
+
 **📂 Dashboard File:** [View Power BI Dashboard](POWERBI-DASHBOARD.png)
 
 ---
@@ -123,10 +127,14 @@ Features: Interactive visualizations for success rate, backer count, goal-wise o
 ### 🌍 Tableau Dashboard
 
 Features: Country and creator-level insights, top-funded projects, and time-series trends.
+
 ![Tableau Dashboard](TABLEAU-DASHBOARD.png)
+
 **📂 Dashboard File:** [View Tableau Dashboard](TABLEAU-DASHBOARD.png)
 
-**🧾 SQL File:** [Download MySQL Script](https://github.com/poonamgade/CrowdfundingAnalysis/blob/main/SQL/Crowdfunding_Queries.sql)
+---
+
+**🧾 SQL File:** [Download MySQL Script](https://github.com/Poonamgade73/Data-Analytics-Portfolio/blob/main/Crowdfunding-Analysis/CrowdFundingAnalysis.sql)
 
 ---
 
