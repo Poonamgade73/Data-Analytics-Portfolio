@@ -80,7 +80,9 @@ The **Bank Loan Analysis Project** focuses on analyzing customer loan data to ev
 ### 🧾 Excel Dashboard
 
 Features: Data cleaning summary, KPI visuals, and loan category distribution.
+
 ![Excel Dashboard](EXCELDASHBOARD.png)
+
 **📂 Dashboard File:** [View Excel Dashboard](EXCELDASHBOARD.png)
 
 ---
@@ -88,7 +90,9 @@ Features: Data cleaning summary, KPI visuals, and loan category distribution.
 ### 📊 Power BI Dashboard
 
 Features: Interactive KPI tracking for loan amount, DTI, verification status, and repayment trends.
+
 ![Power BI Dashboard](POWERBIDASHBOARD.png)
+
 **📂 Dashboard File:** [View Power BI Dashboard](POWERBIDASHBOARD.png)
 
 ---
@@ -96,12 +100,14 @@ Features: Interactive KPI tracking for loan amount, DTI, verification status, an
 ### 🌍 Tableau Dashboard
 
 Features: Regional loan analysis, top loan purposes, and verified vs. unverified comparisons.
+
 ![Tableau Dashboard](TABLEAUDASHBOARD.png)
+
 **📂 Dashboard File:** [View Tableau Dashboard](TABLEAUDASHBOARD.png)
 
 ---
 
-**🧾 SQL File:** [Download MySQL Script](SQL_File_Link)
+**🧾 SQL File:** [Download MySQL Script](https://github.com/Poonamgade73/Data-Analytics-Portfolio/blob/main/Bank-Loan-Analysis/SQL_PROJECT_BANK.sql)
 
 ---
 
